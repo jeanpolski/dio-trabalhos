@@ -8,8 +8,8 @@ Desafios concluídos seguindo orientação da professora Juliana Mascarenhas.
 
 [Desafio 1: E-commerce](https://github.com/jeanpolski/dio-trabalhos/blob/main/MySQL%20Projetos/E-commerce%20-%20Desafio%201.png)
 
-[Desafio 2: Oficina](https://github.com/jeanpolski/dio-trabalhos/blob/52d292e6f72d14abb6251f2e5fd0226a926ea640/MySQL%20Projetos/Oficina%20-%20Desafio%202.png)
+[Desafio 2: Oficina](https://github.com/jeanpolski/dio-trabalhos/blob/main/MySQL%20Projetos/Oficina%20-%20Desafio%202.png)
 
 [Desafio 3: E-commerce SQL](https://github.com/jeanpolski/dio-trabalhos/tree/main/MySQL%20Projetos/E-commerce%20SQL%20-%20Desafio%203)
 
-[Desafio 4: Oficina SQL]()
+[Desafio 4: Oficina SQL](https://github.com/jeanpolski/dio-trabalhos/tree/main/MySQL%20Projetos/Oficina%20SQL%20-%20Desafio%204)
