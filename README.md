@@ -20,3 +20,7 @@ Desafios concluídos seguindo orientação da professora Juliana Mascarenhas.
 Desafios concluídos seguindo orientação do professor Felipe Aguiar.
 
 [Desafio 1: Xbox Dashboard](https://github.com/jeanpolski/dio-trabalhos/tree/main/Excel%20Dashboards/Desafio%201%20-%20Xbox%20Dashboard)
+
+
+### Conclusão do Bootcamp Heineken - Inteligência Artifical Aplicada a Dados com Copilot
+[Certificado](https://www.dio.me/certificate/WJHI6BFU/share)
