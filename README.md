@@ -13,3 +13,10 @@ Desafios concluídos seguindo orientação da professora Juliana Mascarenhas.
 [Desafio 3: E-commerce SQL](https://github.com/jeanpolski/dio-trabalhos/tree/main/MySQL%20Projetos/E-commerce%20SQL%20-%20Desafio%203)
 
 [Desafio 4: Oficina SQL](https://github.com/jeanpolski/dio-trabalhos/tree/main/MySQL%20Projetos/Oficina%20SQL%20-%20Desafio%204)
+
+
+
+### Desafios Excel 
+Desafios concluídos seguindo orientação do professor Felipe Aguiar.
+
+[Desafio 1: Xbox Dashboard](https://github.com/jeanpolski/dio-trabalhos/tree/main/Excel%20Dashboards/Desafio%201%20-%20Xbox%20Dashboard)
